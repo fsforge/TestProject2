@@ -1,1 +1,2 @@
 This file only contains one line/sentence.
+Let's add one sentence in the second line.
